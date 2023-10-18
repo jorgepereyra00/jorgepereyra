@@ -1,0 +1,36 @@
+<!DOCTYPE html> 
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+    <title>Dispositivos auriculares</title>
+	<LINK REL=StyleSheet HREF="miestilo.css" TYPE="text/css" MEDIA=screen> 
+</head>
+<body>
+      <header> 
+		  <h1>The house of marley</h1>
+	  </header>
+	  	 <nav>
+			  <!-- Inicio del menÃº - Esto es un comentario, puedo escribir cualquier cosa -->
+				<a href="index.html">Productos</a> 
+				<a href="formaspago.html">Formas de pago</a>
+				<a href="ofertas.html">Ofertas</a>
+			  <!-- Fin del menÃº -->	    
+		 </nav> 
+       <main>
+       <section> <!-- Inicio del contenido en sÃ­  -->	
+			<h2>Ofertas de la semana</h2>
+			<div class="fotoproducto"><img src="imagenes/auriculares1.png" alt="Redemption ANC 2 está diseñado con seis micrófonos de alto rendimiento, que ofrecen ANC y cancelación de ruido de eco. Con la cancelación activa de ruido (ANC) y el modo ambiente, puede decidir qué parte del mundo exterior dejar entra "/><p><strong> Auriculares  </strong> REDEMPTION ANC 2 TRUE WIRELESS EARBUDS $169.99 </p>
+			 <a href="https://www.thehouseofmarley.com/checkout"> Comprar  </a></div>
+			<div class="fotoproducto"><img src="imagenes/auriculares2.png" alt=" hechos conscientemente de bambú y fibra natural y silicona REGRIND. El cable de carga trenzado está hecho de 99% de poliéster reciclable post-consumo que reduce su impacto ambiental.  Compatible con IOS y Android "/><p><strong>Auriculares  </strong> CHAMPION TRUE WIRELESS EARBUDS $79.99 </p>
+			<a href="https://www.thehouseofmarley.com/checkout"> Comprar </a></div>
+			<div class="fotoproducto"><img src="imagenes/auriculares3.png" alt="cuentan con controladores de alta definición de 40 mm. diseñado con almohadillas de espuma viscoelástica. micrófono integrado para llamadas manos libres. Compatible con IOS y Android"/><p><strong>Auriculares</strong> POSITIVE VIBRATION XL ANC WIRELESS HEADPHONES $149.99</p>
+			<a href="https://www.thehouseofmarley.com/checkout "> Comprar </a></div>
+			
+     </section>  
+      <!-- Fin del contenido -->
+     </main>
+     <footer> <!-- Inicio pie de pÃ¡gina -->
+		 <p>Venta de altavoces - 2022 <a href="https://www.instagram.com/planet.cycle/"> instagram</p>
+     </footer> <!-- Fin del pie de pÃ¡gina --> 
+</body>
+</html>
